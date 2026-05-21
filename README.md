@@ -14,7 +14,7 @@ I'm a passionate full-stack web developer and data scientist, continuously honin
   - Apply Machine Learning and Big Data Analytics techniques to extract relevant and scalable insights
   - Collaborate with multidisciplinary teams to transform data into practical solutions using modern data engineering and analytical visualization technologies
 
-- **Front-End Developer**, ECOINF (Dec 2021 – Present)  
+- **Front-End Developer**, ECOINF (Dec 2021 – Apr 2026)  
   Brasília, DF, Brazil (On-site)  
   - Develop responsive, accessible interfaces using HTML5, CSS3, and JavaScript  
   - Integrate SEO strategies and manage Google Ads campaigns  
